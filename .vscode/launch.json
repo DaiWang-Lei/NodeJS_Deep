@@ -12,5 +12,5 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\src\\basic\\file_server.js"
+            "program": "${workspaceFolder}\\src\\koa2\\app.js"
 }
